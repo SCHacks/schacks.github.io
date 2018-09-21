@@ -1,40 +1,40 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-16a572b3cb961ea86b61.js",
-      "component---src-pages-index-js-16a572b3cb961ea86b61.js.map"
+      "component---src-pages-index-js-af9ef20d9f7693167ce2.js",
+      "component---src-pages-index-js-af9ef20d9f7693167ce2.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "component---src-pages-challenge-js": [
-      "component---src-pages-challenge-js-6fad28b8011737ca3cab.js",
-      "component---src-pages-challenge-js-6fad28b8011737ca3cab.js.map"
+      "component---src-pages-challenge-js-a2aabd30affd33d80c04.js",
+      "component---src-pages-challenge-js-a2aabd30affd33d80c04.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-ca6be1955959c120a083.js",
-      "component---src-layouts-index-js-ca6be1955959c120a083.js.map"
+      "component---src-layouts-index-js-04ff04ec59369dde531d.js",
+      "component---src-layouts-index-js-04ff04ec59369dde531d.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "component---src-pages-404-js": [
-      "component---src-pages-404-js-a4ddc7b704f915338c22.js",
-      "component---src-pages-404-js-a4ddc7b704f915338c22.js.map"
+      "component---src-pages-404-js-8aeda52b48ae09edbdf5.js",
+      "component---src-pages-404-js-8aeda52b48ae09edbdf5.js.map"
     ],
     "commons": [
-      "commons-a8447e0c1b704923c1c6.js",
-      "commons-a8447e0c1b704923c1c6.js.map"
+      "commons-390003849559a78f1f77.js",
+      "commons-390003849559a78f1f77.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-c4dc43f2d172540dda50.js",
-      "app-c4dc43f2d172540dda50.js.map"
+      "app-22ae9095a376cc2620f7.js",
+      "app-22ae9095a376cc2620f7.js.map"
     ],
     "path---challenge": [
       "path---challenge-a0e39f21c11f6a62c5ab.js",
